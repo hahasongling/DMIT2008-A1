@@ -1,0 +1,99 @@
+[
+    {
+    "product_id": "076929ec",
+    "image": "/profiles/img/photo-1557180295-76eee20ae8aa.webp",
+    "company": "Dach, Parker and Zboncak",
+    "type": "light roast",
+    "price": "15.99",
+    "description": "Lorem ipsum dolor sit amet con se cte tur ",
+    "star_rating": 4.75
+    }, 
+    {
+    "product_id": "6b6af9a6",
+    "image": "/profiles/img/photo-1559181567-c3190ca9959b.webp",
+    "company": "Corkery, Prohaska and Johns",
+    "type": "medium roast",
+    "price": "12.99",
+    "description": "Lorem ipsum dolor sit amet con se cte tur ",
+    "star_rating": 4.76
+  }, {
+    "product_id": "e58d9ffb",
+    "image": "/profiles/img/photo-1559703248-dcaaec9fab78.webp",
+    "company": "Kessler Inc",
+    "type": "dark roast",
+    "price": "13.99",
+    "description": "Lorem ipsum dolor sit amet con se cte tur ",
+    "star_rating": 4.45
+  }, {
+    "product_id": "3395b4eb",
+    "image": "/profiles/img/photo-1563219996-45f1a0ba692e.webp",
+    "company": "Dach, Parker and Zboncak",
+    "type": "light roast",
+    "price": "18.99",
+    "description": "Lorem ipsum dolor sit amet con se cte tur ",
+    "star_rating": 4.75
+  }, {
+    "product_id": "70fc0a09",
+    "image": "/profiles/img/photo-1429087969512-1e85aab2683d.webp",
+    "company": "Kessler Inc",
+    "type": "dark roast",
+    "price": "19.99",
+    "description": "Lorem ipsum dolor sit amet con se cte tur ",
+    "star_rating": 4.78
+  }, {
+    "product_id": "9b677bb7",
+    "image": "/profiles/img/photo-1459411552884-841db9b3cc2a.webp",
+    "company": "Brekke and Sons",
+    "type": "light roast",
+    "price": "10.99",
+    "description": "Lorem ipsum dolor sit amet con se cte tur ",
+    "star_rating": 4.66
+  }, {
+    "product_id": "e216642a",
+    "image": "/profiles/img/photo-1503602642458-232111445657.webp",
+    "company": "McKenzie, Hansen and Wintheiser",
+    "type": "light roast",
+    "price": "11.99",
+    "description": "Lorem ipsum dolor sit amet con se cte tur ",
+    "star_rating": 4.65
+  }, {
+    "product_id": "a2ab51cd",
+    "image": "/profiles/img/photo-1528825871115-3581a5387919.webp",
+    "company": "Schaefer, Marks and Bahringer",
+    "type": "light roast",
+    "price": "13.99",
+    "description": "Lorem ipsum dolor sit amet con se cte tur ",
+    "star_rating": 4.76
+  }, {
+    "product_id": "b0364745",
+    "image": "/profiles/img/photo-1533910534207-90f31029a78e.webp",
+    "company": "Upton Group",
+    "type": "medium roast",
+    "price": "15.99",
+    "description": "Lorem ipsum dolor sit amet con se cte tur ",
+    "star_rating": 4.66
+  }, {
+    "product_id": "961062cc",
+    "image": "/profiles/img/photo-1536816579748-4ecb3f03d72a.webp",
+    "company": "Nader LLC",
+    "type": "light roast",
+    "price": "19.99",
+    "description": "Lorem ipsum dolor sit amet con se cte tur ",
+    "star_rating": 4.88
+  }, {
+    "product_id": "54de6c27",
+    "image": "/profiles/img/photo-1541480601022-2308c0f02487.webp",
+    "company": "Mayert, Gutkowski and Sauer",
+    "type": "light roast",
+    "price": "12.99",
+    "description": "Lorem ipsum dolor sit amet con se cte tur ",
+    "star_rating": 4.55
+  }, {
+    "product_id": "1b64a5f8",
+    "image": "/profiles/img/photo-1668704252725-52cc74ef3f39.webp",
+    "company": "Brekke and Sons",
+    "type": "dark roast",
+    "price": "14.99",
+    "description": "Lorem ipsum dolor sit amet con se cte tur ",
+    "star_rating": 4.75
+  }]
